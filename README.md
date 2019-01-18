@@ -9,3 +9,6 @@ Run:
 
     npm install
     npm start
+
+# Usage
+Just type email: `pedroperez@gmail.com` and password: `12345` for valid credentials.
